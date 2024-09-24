@@ -1,6 +1,3 @@
-Here's a README file draft for your **Bank Marketing Success Prediction** project, tailored for GitHub:
-
----
 
 # Bank Marketing Success Prediction
 
